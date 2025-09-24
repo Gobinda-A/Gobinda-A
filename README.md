@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hello, I'm Gobinda Adhikari, a dynamic Computer Science Engineering graduate with a passion for innovation. My skills encompass a wide array of languages including C, C++, JavaScript, SQL, and Python. Achieving an impressive All India Rank of 7138 in the GATE 2023 exam and excelling in TCS NQT and AMCAT tests, I combine technical prowess with problem-solving finesse. With a strong foundation in Object-Oriented Programming, I craft elegant solutions for complex challenges. Join me on this journey as I contribute, learn, and shape the future of technology.
+Hello, I'm **Gobinda Adhikari**, a Computer Science & Engineering graduate and currently an **Associate System Engineer at IBM**. I have hands-on experience in **Java, Python, SQL, C, and C++**, with a strong foundation in **Object-Oriented Programming, Data Structures, Algorithms, and System Design**.  
+
+I’ve worked on building and integrating **REST/SOAP APIs**, optimizing automation scripts, and collaborating with **DevOps teams in agile environments** using **Azure DevOps, CI/CD pipelines, and PowerShell scripting**. Beyond my professional role, I’ve developed projects such as an **Expense Tracker App (Spring REST APIs + PostgreSQL)** and a **Hostel Management System (Node.js + MySQL)**.  
+
+I also hold notable achievements, including an **All India Rank of 7138 in GATE 2023** and top performance in **TCS NQT and AMCAT tests**. Passionate about **full-stack development, AI-driven workflows, and problem-solving**, I actively explore emerging technologies and apply them to real-world challenges.  
+
+🚀 Let’s connect, collaborate, and shape the future of technology together!
+
 
 
 ## 🌐 Socials:
